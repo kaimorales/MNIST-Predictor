@@ -1,7 +1,7 @@
 # MNIST Digit Recognition Neural Network
 
 ## Video Demo
-<video src="https://github.com/kaimorales/MNIST-Predictor/demo.mov" controls></video>
+<video src="https://github.com/kaimorales/MNIST-Predictor/demo.gif" controls></video>
 ## Project Overview
 A neural network designed to recognize handwritten digits using the MNIST dataset, achieving 98.20% accuracy.
 
