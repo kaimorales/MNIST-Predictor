@@ -70,9 +70,8 @@ pip install torch torchvision numpy matplotlib
 ### Running the Project
 ```bash
 python digit_app.py
-
-make sure the path to the model is correct for your system!
 ```
+make sure the path to the model is correct for your system!
 
 ## Project Structure
 ```
