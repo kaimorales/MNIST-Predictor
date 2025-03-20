@@ -80,6 +80,8 @@ mnist-project/
 ├── models/                # Saved model weights
 └── README.md              # Project documentation
 ```
+## Acknowledgments
+Drawing application UI development assistance provided by Claude AI
 
 ## License
 MIT License
