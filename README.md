@@ -69,15 +69,15 @@ pip install torch torchvision numpy matplotlib
 
 ### Running the Project
 ```bash
-python mnist_classifier.py
+python digit_app.py
 ```
 
 ## Project Structure
 ```
 mnist-project/
 │
-├── mnist_classifier.py    # Main training script
-├── models/                # Saved model weights
+├── digit_app.py    # Main training script
+├── model.pth/                # Saved model weights
 └── README.md              # Project documentation
 ```
 ## Acknowledgments
